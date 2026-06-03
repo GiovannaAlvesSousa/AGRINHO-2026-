@@ -2,90 +2,113 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agro Forte, Futuro Sustentável</title>
 </head>
 <body>
 
     <header>
         <h1>Agro Forte, Futuro Sustentável</h1>
-        <p>Equilíbrio entre produção e meio ambiente</p>
+        <h3>Equilíbrio entre Produção e Meio Ambiente</h3>
     </header>
 
-    <nav>
-        <a href="#inicio">Início</a> |
-        <a href="#sustentabilidade">Sustentabilidade</a> |
-        <a href="#tecnologia">Tecnologia</a> |
-        <a href="#impactos">Impactos</a> |
-        <a href="#solucoes">Soluções</a>
-    </nav>
-
     <hr>
 
-    <section id="inicio">
-        <h2>O Agronegócio e sua Importância</h2>
+    <section>
+        <h2>Sobre o Agronegócio</h2>
+
         <p>
-            O agronegócio é um dos setores mais importantes da economia. Ele gera empregos,
-            produz alimentos e contribui para o desenvolvimento do país.
+            O site "Agro Forte, Futuro Sustentável" tem como objetivo informar as pessoas
+            sobre a importância do agronegócio e mostrar como a tecnologia pode ajudar
+            a produzir alimentos de forma sustentável. A proposta é apresentar a relação
+            entre produção agrícola, preservação ambiental e inovação tecnológica.
         </p>
-        <img src="campo.jpg" alt="Imagem de uma plantação" width="400">
+
+        <p>
+            O agronegócio é fundamental para a economia, pois gera empregos, movimenta
+            diversos setores e garante a produção de alimentos para a população.
+        </p>
+
+        <img src="campo.jpg" alt="Campo agrícola" width="300">
+        <img src="natureza.jpg" alt="Natureza" width="300">
+        <img src="tecnologia-agricola.jpg" alt="Tecnologia agrícola" width="300">
     </section>
 
     <hr>
 
-    <section id="sustentabilidade">
+    <section>
         <h2>Sustentabilidade no Campo</h2>
+
         <p>
-            A sustentabilidade busca preservar os recursos naturais enquanto mantém a produção agrícola.
+            A sustentabilidade no campo busca conciliar a produção agrícola com a
+            preservação do meio ambiente. Algumas práticas importantes são:
         </p>
 
         <ul>
-            <li>Uso consciente da água</li>
-            <li>Preservação do solo</li>
-            <li>Redução do desperdício</li>
+            <li>Uso consciente da água;</li>
+            <li>Preservação do solo;</li>
+            <li>Redução do desperdício;</li>
+            <li>Proteção dos recursos naturais.</li>
         </ul>
     </section>
 
     <hr>
 
-    <section id="tecnologia">
+    <section>
         <h2>Tecnologias Sustentáveis</h2>
+
         <p>
-            A tecnologia ajuda a produzir mais alimentos com menos impacto ambiental.
+            A tecnologia tem um papel importante na agricultura moderna, ajudando
+            a aumentar a produtividade e reduzir impactos ambientais.
         </p>
 
         <ul>
-            <li>Agricultura de precisão</li>
-            <li>Drones agrícolas</li>
-            <li>Irrigação inteligente</li>
-            <li>Energia renovável</li>
+            <li>Agricultura de precisão;</li>
+            <li>Irrigação inteligente;</li>
+            <li>Drones agrícolas;</li>
+            <li>Uso de energia renovável nas fazendas.</li>
         </ul>
     </section>
 
     <hr>
 
-    <section id="impactos">
-        <h2>Impactos Ambientais</h2>
+    <section>
+        <h2>Impactos Ambientais da Produção Agrícola</h2>
+
         <p>
-            Algumas práticas agrícolas podem causar desmatamento, emissão de carbono
-            e consumo excessivo de água.
+            Quando não há planejamento adequado, a produção agrícola pode causar
+            impactos ambientais como:
         </p>
+
+        <ul>
+            <li>Desmatamento;</li>
+            <li>Emissão de carbono;</li>
+            <li>Consumo excessivo de água;</li>
+            <li>Degradação do solo.</li>
+        </ul>
     </section>
 
     <hr>
 
-    <section id="solucoes">
+    <section>
         <h2>Soluções Sustentáveis</h2>
+
         <p>
-            O uso de tecnologias modernas e práticas sustentáveis ajuda a equilibrar
-            produção agrícola e preservação ambiental.
+            Para equilibrar produção e preservação ambiental, podem ser adotadas
+            diversas soluções sustentáveis:
         </p>
+
+        <ul>
+            <li>Uso eficiente dos recursos naturais;</li>
+            <li>Recuperação de áreas degradadas;</li>
+            <li>Investimento em energias renováveis;</li>
+            <li>Aplicação de tecnologias agrícolas sustentáveis.</li>
+        </ul>
     </section>
 
     <hr>
 
     <footer>
-        <p>Projeto escolar - Agro Forte, Futuro Sustentável</p>
+        <p>Agro Forte, Futuro Sustentável - Projeto Educacional</p>
     </footer>
 
 </body>
